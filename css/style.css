@@ -38,3 +38,9 @@ body {
 .col-left {
 	margin-bottom: 20px;
 }
+
+.meta-info {
+	float: right;
+	font-size: 10px;
+	margin: 10px;
+}
